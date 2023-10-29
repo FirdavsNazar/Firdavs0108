@@ -2,7 +2,7 @@
 #### Frontend Developer
 
 
-I'm Firdavs but you can call me Fredrick. I'm from Uzbekistan, now I am in Korea because of studying. I really enjoy learning programming languages. In these day, I am learning JS and React.
+I'm Firdavs but you can call me Fredrick. I'm from Uzbekistan, now I am in Korea because of studying. I really enjoy learning programming languages. In these day, I am learning Java.
 
 
 Skills:  REACT / JS / HTML / CSS
