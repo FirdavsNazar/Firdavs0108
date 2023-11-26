@@ -2,7 +2,7 @@
 #### Frontend Developer
 
 
-I'm Firdavs but you can call me Fredrick. I'm from Uzbekistan, now I am in Korea because of studying. I really enjoy learning programming languages. In these day, I am learning Java.
+ I'm Firdavs, but feel free to call me Fredrick. Originally from Uzbekistan, I currently find myself in Korea pursuing my studies. I derive immense pleasure from delving into the world of programming languages. Presently, my focus is on mastering Java.
 
 
 Skills:  REACT / JS / HTML / CSS / TYPESCRIPT/  JAVA
